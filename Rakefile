@@ -4,6 +4,6 @@ task :default do
   puts "Hello World!"
 end
 
-task :test do
+task :hello do
   puts "Hello World!!!"
 end
